@@ -4,3 +4,4 @@ seaborn
 sklearn
 pandas
 numpy
+gunicorn
