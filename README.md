@@ -1,7 +1,7 @@
 # boston_house
 Generate a machine learning model from sklearn boston house price data set.
-Created a web application that take independent features as input and generate predction.
-Deployed web application in dockers using flask
+Created a web application that take independent features as input and generate prediction for house price.
+Saved web application in docker image and deployed them in heroku using flask
 
 
 # Software and tool requirement
