@@ -25,6 +25,5 @@ def predict():
     output=reg_model.predict(transformed_input)[0]
     return render_template("home.html",prediction_text="Predicted House Price is {}".format(output))
 
-
 if __name__=="__main__":
     app.run(debug=True)

@@ -5,3 +5,5 @@ sklearn
 pandas
 numpy
 gunicorn
+streamlit
+xgboost
