@@ -4,7 +4,6 @@
     Used flask and html to generate a simple web application that takes feautres as input and predict house price
     Used Dockers to deploy the web application on cloud platform Heroku and github action for maintainance of the api
     
-[House_price_predictor](https://bostonprice1.herokuapp.com/) (Website link)
 
 # Software and tool requirement
 1. [Github](https://github.com/)
@@ -13,3 +12,5 @@
 4. [Vscode](https://code.visualstudio.com/)
 5. [Jupyter Notebook](https://jupyter.org/)
 6. [Dockers](https://docs.docker.com/language/java/deploy/)
+
+## Note : Website has been taken down due Heroku changing their policy and removing unpaid deplyement services
