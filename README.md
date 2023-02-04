@@ -13,4 +13,4 @@
 5. [Jupyter Notebook](https://jupyter.org/)
 6. [Dockers](https://docs.docker.com/language/java/deploy/)
 
-## Note : Website has been taken down due Heroku changing their policy and removing unpaid deplyement services
+## Note : Website has been taken down due to heroku.com changing their policy and no longer providing unpaid deplyement services
